@@ -4,4 +4,4 @@ The Pomodoro Technique is a time management method based on 25-minute stretches 
 Longer breaks, typically 15 to 30 minutes, are taken after four consecutive work intervals.
 Each work interval is called a pomodoro, which is Italian word for tomato, hence the name.
 
-Note: You can change 
+Note: You can change the long break time by changing the value of LONG_BREAK_MIN in the constants section. Specify minutes, and not seconds.
